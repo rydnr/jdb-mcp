@@ -41,3 +41,6 @@ release/
 
 # IDE - Trae
 .trae/
+
+jdb-mcp-core/pom.xml
+jdb-mcp-jdk8/pom.xml
